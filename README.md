@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barroca8
-- 👀 I’m interested in Basketball, Data Analytics, Finance, Business, Management, Accounting, etc.
-- 🌱 I’m currently learning code, data analytics, finanancial analytics, statistics.
-- 💞️ I’m looking to collaborate on data analytics projects.
+- 👀 I’m interested in Python Programming, Web Scraping and Data Science/Analysis.
+- 🌱 I’m currently learning code and data science/analysis.
+- 💞️ I’m looking to collaborate on web scraping, data science, data analysis and other programming projects.
 - 📫 How to reach me: IG: @franciscobarroca8 , e-mail: @franciscofernandesbarroca@hotmail.com
 
 <!---
