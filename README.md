@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @barroca8
-- 📊 I'm a Data Scientist at Hotellistat
-- 💡 I like to create end-to-end ML/Software Engineering projects to help companies make data-driven decisions
-- 🫂 I like to help small local companies become more digital/automatic
+my name is francisco.\
+data scientist @ hotellistat.\
+i build cool ai stuff.
+
 
 <!---
 barroca8/barroca8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
